@@ -1,0 +1,2 @@
+# IRES
+IRES (Integrated Rice Weevils Eradication System) adalah sebuah sistem untuk membasmi hama kutu pada gudang penyimpanan beras bulog, cara kerja sistem ini adalah dengan menghasilkan gas O3 (ozon) untuk mereduksi jumlah kutu beras pada karung-karung beras, terdapat 2 sistem utama yaitu sistem deteksi dan sistem radiasi, sistem deteksi adalah sistem yang menggunakan pengimplementasian sinar X-ray untuk mendeteksi sampel beras, sementara sistem radiasi adalah sistem yang bertujuan untuk memberikan efek ozon untuk kutu beras
